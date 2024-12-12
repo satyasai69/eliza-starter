@@ -2,7 +2,7 @@
     "name": "BTC",
     "plugins": [],
     "clients": ["twitter"],
-    "modelProvider": "openrouter",
+    "modelProvider": "grok",
     "settings": {
       "secrets": {},
       "voice": {
@@ -327,6 +327,7 @@
         "btc",
         "Bitcoin",
         "btc runes",
+        "LeonidasNFT",
       "pizza",
       "video games",
       "family problems",
